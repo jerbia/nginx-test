@@ -1,3 +1,3 @@
-FROM nginx:1.7
+FROM nginx
 ADD README.md /
 USER amir
